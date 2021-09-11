@@ -1,7 +1,7 @@
 # MarkdownChildrenKit
 
 <p align="center">
-    <img src="Assets/logo/logo.svg" width="320pt" alt="Clipboard with words GIVEN... WHEN... THEN...">
+    <img src="Assets/logo/logo.svg" width="320pt" alt="Markdown Logo with list">
     <br>
     <a href="https://swiftpackageindex.com/patrickbdev/MarkdownChildrenKit"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fpatrickbdev%2FMarkdownChildrenKit%2Fbadge%3Ftype%3Dplatforms"/></a>
     <a href="https://swiftpackageindex.com/patrickbdev/MarkdownChildrenKit"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fpatrickbdev%2FMarkdownChildrenKit%2Fbadge%3Ftype%3Dswift-versions"/></a>
