@@ -74,3 +74,7 @@ Add the following to your project:
 ```
 https://github.com/patrickbdev/MarkdownChildrenKit
 ```
+
+## TODO
+
+- [ ] Choose list node (`-`, `*` or `+`)
