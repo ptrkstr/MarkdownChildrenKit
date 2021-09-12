@@ -3,12 +3,12 @@
 <p align="center">
     <img src="Assets/logo/logo.svg" width="320pt" alt="Markdown Logo with list">
     <br>
-    <a href="https://swiftpackageindex.com/patrickbdev/MarkdownChildrenKit"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fpatrickbdev%2FMarkdownChildrenKit%2Fbadge%3Ftype%3Dplatforms"/></a>
-    <a href="https://swiftpackageindex.com/patrickbdev/MarkdownChildrenKit"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fpatrickbdev%2FMarkdownChildrenKit%2Fbadge%3Ftype%3Dswift-versions"/></a>
+    <a href="https://swiftpackageindex.com/ptrkstr/MarkdownChildrenKit"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fptrkstr%2FMarkdownChildrenKit%2Fbadge%3Ftype%3Dplatforms"/></a>
+    <a href="https://swiftpackageindex.com/ptrkstr/MarkdownChildrenKit"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fptrkstr%2FMarkdownChildrenKit%2Fbadge%3Ftype%3Dswift-versions"/></a>
     <br>
     <a href="https://github.com/apple/swift-package-manager" alt="MarkdownChildrenKit on Swift Package Manager"><img src="https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg" /></a>
-    <a href="https://github.com/patrickbdev/MarkdownChildrenKit/actions/workflows/swift.yml"><img src="https://github.com/patrickbdev/MarkdownChildrenKit/actions/workflows/swift.yml/badge.svg"/></a>
-    <a href="https://codecov.io/gh/patrickbdev/MarkdownChildrenKit"><img src="https://codecov.io/gh/patrickbdev/MarkdownChildrenKit/branch/develop/graph/badge.svg?token=O6FVY8NPLC"/></a>
+    <a href="https://github.com/ptrkstr/MarkdownChildrenKit/actions/workflows/swift.yml"><img src="https://github.com/ptrkstr/MarkdownChildrenKit/actions/workflows/swift.yml/badge.svg"/></a>
+    <a href="https://codecov.io/gh/ptrkstr/MarkdownChildrenKit"><img src="https://codecov.io/gh/ptrkstr/MarkdownChildrenKit/branch/develop/graph/badge.svg?token=O6FVY8NPLC"/></a>
     <br>
     Generates a markdown list of children files and folders and saves it to a markdown file.<br>
     Useful when wanting an index in a readme.md.
@@ -72,7 +72,7 @@ My favourite things are:
 ### SPM
 Add the following to your project:  
 ```
-https://github.com/patrickbdev/MarkdownChildrenKit
+https://github.com/ptrkstr/MarkdownChildrenKit
 ```
 
 ## TODO
