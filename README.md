@@ -11,7 +11,8 @@
     <a href="https://codecov.io/gh/ptrkstr/MarkdownChildrenKit"><img src="https://codecov.io/gh/ptrkstr/MarkdownChildrenKit/branch/develop/graph/badge.svg?token=O6FVY8NPLC"/></a>
     <br>
     Generates a markdown list of children files and folders and saves it to a markdown file.<br>
-    Useful when wanting an index in a readme.md.
+    Useful when wanting an index in a readme.md.<br>
+    <a href="https://github.com/ptrkstr/MarkdownChildren">Available as a command line tool here.</a>
 </p>
 
 ## Example
