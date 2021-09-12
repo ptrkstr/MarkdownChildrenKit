@@ -77,4 +77,5 @@ https://github.com/ptrkstr/MarkdownChildrenKit
 
 ## TODO
 
-- [ ] Choose list node (`-`, `*` or `+`)
+- [ ] Option - Choose list node (`-`, `*` or `+`)
+- [ ] Option - Skip folder if it doesn't contain any markdown files
